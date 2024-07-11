@@ -14,7 +14,7 @@
 
 ## Preview do Projeto
 
-[Link para o projeto](https://www.alura.com.br/projeto)
+[Link para o projeto](https://eduardosichelero.github.io/Alura_Geek_Shop/)
 
 ---
 
