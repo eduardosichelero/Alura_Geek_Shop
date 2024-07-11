@@ -1,0 +1,10 @@
+{
+  "description": "",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  },
+
+  "scripts": {
+  "start": "json-server --watch dados.json --port 5001"
+}
+}

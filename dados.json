@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "imagem": "img/MortalKombat.webp",
+        "produto": "Mortal Kombat 3 ",
+        "valor": 85.0
+    },
+    {
+        "id": 2,
+        "imagem": "img/TopGear.webp",
+        "produto": "TopGear",
+        "valor": 92.0
+    },
+    {
+        "id": 3,
+        "imagem": "img/Zelda.avif",
+        "produto": "Zelda",
+        "valor": 70.0
+    },
+    {
+        "id": 4,
+        "imagem": "img/Sonic.webp",
+        "produto": "Sonic The Hedgehog",
+        "valor": 60.0
+    },
+    {
+        "id": 5,
+        "imagem": "img/Superstar.avif",
+        "produto": "Superstar Soccer",
+        "valor": 65.0
+    },
+    {
+        "id": 6,
+        "imagem": "img/ReiLeao.webp",
+        "produto": "O Rei Leão",
+        "valor": 70.0
+    }
+]
